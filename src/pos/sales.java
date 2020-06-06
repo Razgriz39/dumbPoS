@@ -399,7 +399,7 @@ public class sales extends javax.swing.JFrame {
         totalChange.setText(String.valueOf(change));
         }
     }
-    
+       
     public void Bill(){
         String total = totalAmount.getText();
         String pay = totalPay.getText();
